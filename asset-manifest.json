@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/TenorioNestor/primeFlix/static/css/main.9d4d6b50.css",
-    "main.js": "/TenorioNestor/primeFlix/static/js/main.d96fce28.js",
-    "index.html": "/TenorioNestor/primeFlix/index.html",
-    "main.9d4d6b50.css.map": "/TenorioNestor/primeFlix/static/css/main.9d4d6b50.css.map",
-    "main.d96fce28.js.map": "/TenorioNestor/primeFlix/static/js/main.d96fce28.js.map"
+    "main.css": "/primeFlix/static/css/main.9d4d6b50.css",
+    "main.js": "/primeFlix/static/js/main.4f2fd4b0.js",
+    "index.html": "/primeFlix/index.html",
+    "main.9d4d6b50.css.map": "/primeFlix/static/css/main.9d4d6b50.css.map",
+    "main.4f2fd4b0.js.map": "/primeFlix/static/js/main.4f2fd4b0.js.map"
   },
   "entrypoints": [
     "static/css/main.9d4d6b50.css",
-    "static/js/main.d96fce28.js"
+    "static/js/main.4f2fd4b0.js"
   ]
 }
